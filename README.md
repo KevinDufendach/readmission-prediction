@@ -5,6 +5,9 @@ This repo contains the final version of our project to identify determinants of,
 ## For detailed description and tutorial
 Read our [blog post here](https://medium.com/@uraza/how-to-use-machine-learning-to-predict-hospital-readmissions-part-1-bd137cbdba07).
 
+## Binder link
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KevinDufendach/readmission-prediction/master)
+
 ## Credits
 Project team includes:
 
